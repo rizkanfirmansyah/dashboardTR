@@ -1,6 +1,16 @@
 # Templating Dashboard with ReactJS & TailwindCSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build with Stack 
+- React JS
+- Tailwind CSS
+- Feather Icon
+- React Router DOM
+
+And this project using atomic design, so i have 4 primary folder :
+- pages
+- components [atoms, molecules]
+- assets [images, icons, etc]
+- configs [router, helper]
 
 ## Available Scripts
 
